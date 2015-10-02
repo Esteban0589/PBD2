@@ -1,0 +1,35 @@
+Consumo eléctrico
+	-Valor del consumo electrico
+	-Canton
+	-Año
+	-Unidad de medida del consumo electrico
+
+Empleo por region:
+	Sectintitucional2004 y 2005:
+		-Region de planificacion
+		-Grupo ocupacional
+		-Sexo
+		-Grupo institucional
+		-Poblacion ocupada
+	Poblacion_ocupados_con_ingreso_por_categoria_ocupacion_2004
+		-Sexo
+		-Region de planificacion
+		-Categoria ocupacional
+		-Ingreso promedio mensual
+		-Personas
+		
+Bomberos
+	-Nombre
+	-Direccion
+	-Infraestructura
+	-Extintoras
+	-Rescate
+	-Forestales
+	-Provincia
+	-Canton
+	-Distrito
+		
+Riesgo incendios
+	-Messec
+	-Clasificacion
+	-Riesgo

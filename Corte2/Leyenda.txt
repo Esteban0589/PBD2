@@ -1,0 +1,18 @@
+Preguntar por lo del ano que uno solo tinene 04-05pobXGrupoDeTrabajo y otro 03 y 06carret
+Preguntar como agrupar geos mediante riesgo
+NRTM6-PKDBD-BFH4H-49DKJ-HMF4P
+leyenda
+
+atributo verde : mltivalor
+FK clave externa
+
+Entidad punteada: ent debil
+CP clave primaria
+CE clave primaria desde una entidad externa
+
+
+Agregar medida carreterad kilometro
+Agregar medida de consumo electrico k????
+
+
+
